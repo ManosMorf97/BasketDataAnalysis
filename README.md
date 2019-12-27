@@ -1,7 +1,7 @@
 # BasketDataAnalysis
-Tα δεδομένα ειναι από ![εδώ](https://www.kaggle.com/andrewsundberg/college-basketball-dataset)
+Tα δεδομένα ειναι από [εδώ](https://www.kaggle.com/andrewsundberg/college-basketball-dataset)
 
-![Eδώ](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
+[Eδώ](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
 
 Αρχικά αφαιρώ τα columns SEEDS και POSTSEASON επειδή στο Dataset πολλες ομάδες δεν είχαν τιμή σε αυτά(ΝΑ)
 Επίσης αφαίρεσα το column ΥΕΑR και WAB

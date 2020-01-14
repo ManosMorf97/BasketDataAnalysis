@@ -3,8 +3,7 @@
 Tα δεδομένα ειναι από [εδώ](https://www.kaggle.com/andrewsundberg/college-basketball-dataset)
 
 Στα αρχεία [Unitled1](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) και 
-[Untitled2](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled2.ipynb)
-#### κυρίως
+[Untitled2](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled2.ipynb)(κυρίως)
 μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
 
 Σε μονιμη βαση για τωρα  αφαιρούνται τα columns SEEDS και POSTSEASON επειδή στο Dataset πολλες ομάδες δεν είχαν τιμή σε αυτά(ΝΑ).<br>

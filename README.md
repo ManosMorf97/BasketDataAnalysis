@@ -17,7 +17,7 @@ Tα δεδομένα ειναι από [εδώ](https://www.kaggle.com/andrewsun
 Αρχικα αφαίρεσα τα column ΥΕΑR,CONF και WAB.<br>
 Kαι αποφάσισα να χρησιμοποιήσω το column BARTHAG ως μεταβλητή εξόδου και να δω πόσο καλές προβλεψεις γίνονται.
 <br>
-Στα αρχεία [Unitled1](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) και 
+Στα αρχεία [Untitled1](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) και 
 [Untitled2](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled2.ipynb)(κυρίως)
 μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
 <br>

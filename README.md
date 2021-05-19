@@ -5,20 +5,22 @@ Tα δεδομένα ειναι από [εδώ](https://www.kaggle.com/andrewsun
 Σε μονιμη βαση   αφαιρούνται τα columns SEEDS και POSTSEASON επειδή στο Dataset πολλες ομάδες δεν είχαν τιμή σε αυτά(ΝΑ).
 <br>
 
-Στα αρχεία [Unitled1](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) και 
-[Untitled2](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled2.ipynb)(κυρίως)
-μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
 
 Στο αρχείο [requirements.ipynb](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/requirements.ipynb) βρίσκεται 
 ο κώδικας που έχει να κάνει με τις απαιτήσεις της πτυχιακής μου.
 
 Στο αρχείο [Περιγραφή.pdf](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/%CE%A0%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%AE.pdf) βρίσκεται η περιγραφή της πτυχιακής μου.
 <br>
-##Οτι ακολουθεί παρακάτω δεν έχουν να κάνουν με την πτυχιακή μου.Είναι εντελώς δικά μου
+## Ότι ακολουθεί παρακάτω δεν έχουν να κάνουν με την πτυχιακή μου.Είναι εντελώς δικά μου
 <br>
 <br>
 Αρχικα αφαίρεσα τα column ΥΕΑR,CONF και WAB.<br>
-Kαι αποφάσισα να χρησιμοποιήσω το column BARTHAG ως μεταβλητή εξόδου και να δω πόσο καλές προβλεψεις γίνονται.<br>
+Kαι αποφάσισα να χρησιμοποιήσω το column BARTHAG ως μεταβλητή εξόδου και να δω πόσο καλές προβλεψεις γίνονται.
+<br>
+Στα αρχεία [Unitled1](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled1.ipynb) και 
+[Untitled2](https://github.com/ManosMorf97/BasketDataAnalysis/blob/master/Untitled2.ipynb)(κυρίως)
+μπορείτε να δείτε την πρόοδο μου σχετικά με Basketball_datasets
+<br>
 Επειδή η διάσπαση των δεδομένων για train και test γίνεται με τυχαίο τρόπο έτρεξα 10 φορές τον αλγόριθμο με σκοπό να παρατηρήσω την συμπριφορά.Επειτα μείωσα τους νευρώνες στους 400 και ο Μέσος Ωρος στο score φάνηκε πολύ καλύτερος
 <br>
 <br>
